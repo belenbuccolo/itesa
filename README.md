@@ -9,7 +9,7 @@ PWA workout application that uses movenet pretrained ML model to estimate poses 
 
 ### Built with:
 
-- Frontend: React.js, CSS Modules
+- Frontend: React.js, Recoil, CSS Modules
 - Backend: Firebase
 - Other: Tensorflow.js, MindAr
 
